@@ -5,4 +5,4 @@ Barisan is a project submission framework for digital humanities. It's nowhere n
 
 1) Accept project submissions.
 2) Allow some species of backend ranking/commentary on projects
-3) Spit out (in excel format?) a list of projects and project submitters.
+3) Spit out (in csv format?) a list of projects and project submitters.
